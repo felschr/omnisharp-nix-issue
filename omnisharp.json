@@ -1,12 +1,11 @@
 {
-  "MsBuild": {
-    "UseLegacySdkResolver": true,
-    "EnablePackageAutoRestore": true
+  "msbuild": {
+    "enablePackageAutoRestore": true
   },
-  "FormattingOptions": {
-    "EnableEditorConfigSupport": true
+  "formattingOptions": {
+    "enableEditorConfigSupport": true
   },
-  "RoslynExtensionsOptions": {
-    "EnableAnalyzersSupport": true
+  "roslynExtensionsOptions": {
+    "enableAnalyzersSupport": true
   }
 }
